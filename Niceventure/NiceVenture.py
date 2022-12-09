@@ -129,6 +129,6 @@ flower = FlowerPot(position = (-3,-1),texture = load_texture('assets/FlowerPot/F
 
 golem = TuffGolem(position = (-6,-1))
 
-player= Player(position = (0,-1,-1),texture = load_texture('assets/FlowerPot/FlowerPot2.png'))
+#player= Player(position = (0,-1,-1),texture = load_texture('assets/FlowerPot/FlowerPot2.png'))
 
 app.run()
